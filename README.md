@@ -77,9 +77,9 @@ $ git clone https://github.com/CSE17-Houria-Oudghiri/Tutorial.git
 // Your remote connection will still be there if you close your terminal. Once you have code you want to add to Github:
 $ git add .
 $ git commit -m "1st Commit"
-
 // Let's say you don't want to add this commit. You can use "$ git reset" to unstage your commit.
 
-// Finally add file to the Github repository.
-$ git 
+// Finally add file to the Github repository. It should be uploaded after this. When you pick the code back up later, you can just start from $ git add .
+$ git push
+```
 
