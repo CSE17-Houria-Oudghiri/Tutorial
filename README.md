@@ -79,7 +79,9 @@ $ git add .
 $ git commit -m "1st Commit"
 // Let's say you don't want to add this commit. You can use "$ git reset" to unstage your commit.
 
-// Finally add file to the Github repository. It should be uploaded after this. When you pick the code back up later, you can just start from $ git add .
+// Finally add file to the Github repository. It should be uploaded after this. 
 $ git push
+
+// When you pick the code back up later, you can just start from $ git add .
 ```
 
