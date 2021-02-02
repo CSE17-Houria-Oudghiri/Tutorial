@@ -67,5 +67,9 @@ Below is an example of how you would typically upload an assignment.
 
 ```
 // First either clone a template repository when starting a new assignment or pull the most current version of the repository if you're continuing to work from a previous commit.
+$ git init
+$ git remote add origin <url>
 $ git clone <url>
+
+// Now you have the 
 
