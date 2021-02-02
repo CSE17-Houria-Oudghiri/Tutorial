@@ -66,10 +66,20 @@ There are plenty of other git commands that can do things like view entire versi
 Below is an example of how you would typically upload an assignment.
 
 ```
-// First either clone a template repository when starting a new assignment or pull the most current version of the repository if you're continuing to work from a previous commit.
+// First either clone a template repository when starting a new assignment or 
+// pull the most current version of the repository if you're continuing to work from a previous commit.
+$ cd C:\Users\Justin\I-want-the-folder-here
 $ git init
-$ git remote add origin <url>
-$ git clone <url>
+$ git remote add Origin https://github.com/CSE17-Houria-Oudghiri/Tutorial.git
+$ git clone https://github.com/CSE17-Houria-Oudghiri/Tutorial.git
 
-// Now you have the 
+// Now you cloned all the files to your current working directory. Work on your code as normal. 
+// Your remote connection will still be there if you close your terminal. Once you have code you want to add to Github:
+$ git add .
+$ git commit -m "1st Commit"
+
+// Let's say you don't want to add this commit. You can use "$ git reset" to unstage your commit.
+
+// Finally add file to the Github repository.
+$ git 
 
