@@ -2,7 +2,7 @@
 
 Git is a free and open-source version control system that will help you keep your code organized and centralized in one place. We will be using this tool for each assignment throughout the semester, so it is important to get set up as soon as possible. This tutorial should get you started on Github including git installation, basic git commands, and step-by-step guide to using Github. You can also find more in-depth documentation and video guide from these links: 
 
-### I made a quick video if you want a visual guide: https://drive.google.com/file/d/1t8UWlHSygKYDKDGYmhtUl0m_IhN_1swj/view?usp=sharing
+### I made a quick video for using Github directly from Eclipse: https://drive.google.com/file/d/1t8UWlHSygKYDKDGYmhtUl0m_IhN_1swj/view?usp=sharing
 ### Documentation: https://training.github.com/downloads/github-git-cheat-sheet/
 ### Video and article guides: https://www.youtube.com/watch?v=SWYqp7iY_Tc https://towardsdatascience.com/learn-basic-git-commands-for-your-data-science-works-2a75396d530d
 
