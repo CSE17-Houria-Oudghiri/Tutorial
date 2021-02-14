@@ -4,7 +4,7 @@ Git is a free and open-source version control system that will help you keep you
 
 ### I made 2 quick videos:
    - From the terminal:
-   - Directly from eclipse:
+   - Directly from eclipse: https://drive.google.com/file/d/13-rHLFKTioxs6x-XUdDTSgiWJ1hIIPPf/view?usp=sharing
 ### Documentation: https://training.github.com/downloads/github-git-cheat-sheet/
 ### Video and article guides: https://www.youtube.com/watch?v=SWYqp7iY_Tc https://towardsdatascience.com/learn-basic-git-commands-for-your-data-science-works-2a75396d530d
 
