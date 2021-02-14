@@ -57,10 +57,14 @@ I don't have any personal experience with this method, but have heard that most 
 # Method 3: Built-in Git on Eclipse
 I only just learned of this method, but I am adding it here as a possibility and something for me to learn. By right-clicking on a project folder in your package explorer, you will see an option called 'team'. You will see that the dropdown menu from 'team' will show familiar git terms like commit, fetch, push, and pull.
 
+See video link at the top for how to use built-in git on Eclipse.
+
 <br />
 
 # Method 4: My recommendation - Mildly harder to learn
 I say this method is mildly harder to learn because it requires knowing basic UNIX commands to navigate terminal/command line, and memorizing ~10 git commands to have all basic functionality offered by the other methods. This method is the most powerful, however, offering many more additional commands for complete control over git as well as rigorous documentation.
+
+See video link at the top for how to use git from the terminal.
 
 <br />
 
